@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\TextFormatter\TextFormatter\bin\Debug\TextFormatter.exe.config
+D:\VisualStudioProjects\TextFormatter\TextFormatter\bin\Debug\TextFormatter.exe
+D:\VisualStudioProjects\TextFormatter\TextFormatter\bin\Debug\TextFormatter.pdb
+D:\VisualStudioProjects\TextFormatter\TextFormatter\obj\Debug\TextFormatter.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\TextFormatter\TextFormatter\obj\Debug\TextFormatter.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\TextFormatter\TextFormatter\obj\Debug\TextFormatter.exe
+D:\VisualStudioProjects\TextFormatter\TextFormatter\obj\Debug\TextFormatter.pdb
